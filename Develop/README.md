@@ -1,10 +1,10 @@
 
-# [s](s)
+# [readMe-Generator](github.com/javiistacks/readMe-Generator)
 
 ![Badge](https://img.shields.io/badge/license-MIT-f2056c)
 
 ## Description
-s
+A simple command line js application that will generate a README.md file based on USER input.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,26 +14,26 @@ s
 * [License](#license)
 
 ## Installation 👨🏽‍💻 <a name="installation"></a>
-s
+Type the following npm install commands one at a time: npm install i, npm install axios, npm in
 
 ## Usage <a name="usage"></a>
-s
+stall inquirer.
 
 ## Contributing <a name="contributing"></a>
-s
+All Contributions approved by owner.
 
 ## Tests <a name="tests"></a>
-s
+no test
 
 
 ## Questions <a name="questions"></a>
 
-* If you have any questions please [**eMail**](mailto:s) me
-* :octocat: Check out more of my work on [**GitHub**](https://github.com/s)
+* If you have any questions please [**eMail**](mailto:javiann.marrero@icloud.com) me
+* :octocat: Check out more of my work on [**GitHub**](https://github.com/javiistacks)
 
 
 ## License 📝 <a name="license"></a>
 
 This project is **`Massachusetts Institute of Technology`** licensed
 ---
- Copyright ©️ s  s
+ Copyright ©️ 2021  javiann marrero
