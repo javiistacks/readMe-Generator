@@ -3,15 +3,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/readMe-Generator)
 ![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/readMe-Generator)
 
-# readMe-Generator
-
-A simple command line js application that will generate a README.md file based on USER input.
-
-## Created by
-* [Javiann Marrero](https://github.com/javiistacks)
-
 
 ## Table of Contents
+<<<<<<< HEAD
 * [readMe Generator Demo](#ReadMe-Generator-demo)
 * [Development](#development)
 * [Deployment](#deployment)
@@ -20,30 +14,46 @@ A simple command line js application that will generate a README.md file based o
 ## ReadMe Generator Demo 
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
+=======
+* [Intro](#intro)
+* [Demo](#demo)
+* [Installations](#installations)
+* [Created by](#created-by)
+* [Repository](#repository)
+* [License](#license)
 
-## Screenshots of My Portfolio
+>>>>>>> 6d5ae9e9a0ec9ff7d894b63eee683ddb723e03e0
 
-<img src="./Develop/img/screenshotReadMe.jpg" width="550" height="400">
+ ## Introduction
+A simple command line js application that will generate a README.md file based on USER input.
 
-A. 
+## Demo
+![Screencast Demo](./Develop/img/screenRecord.gif)
 
-B. 
+
+## Sample of README.MD generator.
+* Sample [README.md](./Develop/README.md) 
 
 
-## Development
+## Installations
 Type the following npm install commands one at a time: npm install i, npm install axios, npm install inquirer in the command line while in the Develop folder. 
-### Bootstrap
+
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
-  *
+  * npm is the package manager for the Node JavaScript platform. 
 
 * [axios](https://www.npmjs.com/package/axios)
   * axios is a Promise based HTTP client for the browser and node.js. I used axios to fetch the user Github username input.
 
 * [inquirer](https://www.npmjs.com/package/inquirer)
   * A collection of common interactive command line user interfaces.
+
+## Created by
+* [Javiann Marrero](https://github.com/javiistacks)
+
+
+## Repository
 ### Github Repository
 Repository at [myReadme](https://github.com/javiistacks/readMe-Generator)
-
 
 ## License
 
