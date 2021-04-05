@@ -5,7 +5,7 @@
 
 # readMe-Generator
 
-My updated portfolio allows a users to find where to best contact me and view what projects i recently been working on.
+A simple command line js application that will generate a README.md file based on USER input.
 
 ## Created by
 * [Javiann Marrero](https://github.com/javiistacks)
@@ -20,7 +20,7 @@ My updated portfolio allows a users to find where to best contact me and view wh
 
 ## ReadMe Generator Demo
 
-### Display on wide screen
+### Video of 
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
 
@@ -34,24 +34,28 @@ B.
 
 
 ## Development
-
+Type the following npm install commands one at a time: npm install i, npm install axios, npm install inquirer in the command line while in the Develop folder. 
 ### Bootstrap
-* [Bootstrap](https://getbootstrap.com/)
-  * Bootstrap was used for layout and mobile responsivess
+* [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
+  *
 
+* [axios](https://www.npmjs.com/package/axios)
+  * axios is a Promise based HTTP client for the browser and node.js. I used axios to fetch the user Github username input.
 
+* [inquirer](https://www.npmjs.com/package/inquirer)
+  * A collection of common interactive command line user interfaces.
 ### Github Repository
-Site repository at [myReadme](https://github.com/javiistacks/readMe-Generator)
+Repository at [myReadme](https://github.com/javiistacks/readMe-Generator)
 
 
 ## License
 
-Copyright (c) Javiann Marerro. All rights reserved.<br>
+Copyright (c) Javiann Marrero. All rights reserved.<br>
 Please be kind and change content if you wish to use this code.
 
 <details><summary>Licensed under the MIT License</summary>
 
-Copyright (c) 2021 - present | Javiann Marerro
+Copyright (c) 2021 - present | Javiann Marrero
 
 <blockquote>
 Permission is hereby granted, free of charge, to any person obtaining a copy
