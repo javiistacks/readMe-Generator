@@ -5,16 +5,6 @@
 
 
 ## Table of Contents
-<<<<<<< HEAD
-* [readMe Generator Demo](#ReadMe-Generator-demo)
-* [Development](#development)
-* [Deployment](#deployment)
-* [License](#license)
-
-## ReadMe Generator Demo 
-![Screencast Demo](./Develop/img/screenRecord.gif)
-
-=======
 * [Intro](#intro)
 * [Demo](#demo)
 * [Installations](#installations)
@@ -22,7 +12,6 @@
 * [Repository](#repository)
 * [License](#license)
 
->>>>>>> 6d5ae9e9a0ec9ff7d894b63eee683ddb723e03e0
 
  ## Introduction
 A simple command line js application that will generate a README.md file based on USER input.
@@ -84,4 +73,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </blockquote>
 </details>
-
