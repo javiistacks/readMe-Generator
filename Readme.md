@@ -21,7 +21,8 @@ A simple command line js application that will generate a README.md file based o
 
 
 ## Sample of README.MD generator.
-* Sample [README.md](./Develop/README.md) 
+* Sample [README.md](./Develop/README.md)
+<img src="./Develop/img/screenshotReadMe.jpg" width="550" height="400">
 
 
 ## Installations
