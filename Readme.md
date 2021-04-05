@@ -15,12 +15,9 @@ A simple command line js application that will generate a README.md file based o
 * [readMe Generator Demo](#ReadMe-Generator-demo)
 * [Development](#development)
 * [Deployment](#deployment)
-
 * [License](#license)
 
-## ReadMe Generator Demo
-
-### Video of 
+## ReadMe Generator Demo 
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
 
