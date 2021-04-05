@@ -7,6 +7,7 @@
 ## Table of Contents
 * [Intro](#intro)
 * [Demo](#demo)
+* [Sample](#sample)
 * [Installations](#installations)
 * [Created by](#created-by)
 * [Repository](#repository)
@@ -20,7 +21,8 @@ A simple command line js application that will generate a README.md file based o
 ![Screencast Demo](./Develop/img/screenRecord.gif)
 
 
-## Sample of README.MD generator.
+## Sample 
+ These are the samples of the README.MD generator.
 * Sample [README.md](./Develop/README.md)
 <img src="./Develop/img/screenshotReadMe.jpg" width="550" height="400">
 
